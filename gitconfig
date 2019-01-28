@@ -47,5 +47,5 @@
 [branch "master"]
   mergeoptions = --no-edit
 [user]
-	email = kiss7medical@gmail.com
-	name = Anders Kiss
+	email = Kiss
+	name = Anders
